@@ -1,0 +1,23 @@
+{
+  "name": "movie_review_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DangdangBase/movie_review_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DangdangBase/movie_review_crawler/issues"
+  },
+  "homepage": "https://github.com/DangdangBase/movie_review_crawler#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.2"
+  }
+}
